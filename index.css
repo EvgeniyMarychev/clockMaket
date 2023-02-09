@@ -1,3 +1,30 @@
 body {
   font-family: "League Spartan", sans-serif;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+.header-container {
+  display: flex;
+  width: 1440px;
+  padding-top: 104px;
+  padding-left: 133px;
+  padding-right: 133px;
+  padding-bottom: 168px;
+  background-color: #f8f8f8;
+}
+
+.header-title {
+  display: flex;
+  width: 135px;
+  height: 32px;
+  margin-top: 104px;
+  margin-left: 133px;
+  margin-right: 1172px;
+  margin-bottom: 764px;
+  background-color: #f8f8f8;
+  font-size: 24px;
+  line-height: 45px;
+}
